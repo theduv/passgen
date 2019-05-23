@@ -6,6 +6,6 @@ PASSGEN - a password generator in python 3
 
 `git clone https://github.com/theduv/passgen`
 
-###Usage
+### Usage
 
 `./passgen`
