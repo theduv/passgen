@@ -11,3 +11,6 @@ PASSGEN - a password generator in python 3
 ### Usage
 
 `./passgen`
+
+* default   : any ascii letter
+* extra     : any number / punctuation character
