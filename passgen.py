@@ -3,7 +3,10 @@ import random
 import string
 i = 0
 print("<========= PASSGEN =========>")
-num = int(input("Number of characters : "))
+num = input("Number of characters : ")
+while num.isdigit() == 0:
+    num = input("Sorry, try again.\nNumber of characters : ")
+num = int(num)
 res = ""
 ans1 = input("Numbers ? (y/n)")
 while ans1 != 'y' and ans1 != 'n' :
