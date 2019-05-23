@@ -1,4 +1,4 @@
-# Project Title
+# PASSGEN
 
 PASSGEN - a password generator in python 3
 
