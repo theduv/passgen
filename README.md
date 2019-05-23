@@ -1,4 +1,4 @@
-![Alt text](usage.jpg?raw=true)
+![Alt text](usage.png?raw=true)
 
 # PASSGEN
 
