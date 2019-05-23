@@ -22,4 +22,4 @@ if ans2 == 'y' :
 while i < num :
     res += random.choice(range)
     i += 1
-print("Generated the following string :\n" + res)
+print("Generated the following string :\n" + "\033[1;32;40m" + res + "\033[0;0;37m")
