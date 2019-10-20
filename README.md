@@ -4,6 +4,10 @@
 
 PASSGEN - a password generator in python
 
+### Prerequisites
+
+python 3.*
+
 ### Installation
 
 `git clone https://github.com/theduv/passgen`
